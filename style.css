@@ -67,3 +67,16 @@ h1, h2{
     font-size: 20px;
     width: 45vw;
 }
+
+#herbtitle{
+    background-color: white;
+}
+
+#omnititle{
+    color: white;
+    background-color: forestgreen;
+}
+
+#carnititle{
+    background-color: plum;
+}
